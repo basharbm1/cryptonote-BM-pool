@@ -1,4 +1,4 @@
-An updated cryptonote-BM-pool fork
+An updated cryptonote-BM-pool fork support bzk block v4 (node 4)
 ========================================
 
 High performance Node.js (with native C addons) mining pool for Cryptonote based coins.
