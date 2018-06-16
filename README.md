@@ -77,10 +77,7 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * [Forknote](https://forknote.net)
 * [Brazukcoin](https://www.brazukcoin.org)
 
-### Pools Using This Software
 
-* http://pool.brazukcoin.org
-* http://bzk.hpool.net
 
 Usage
 =====
@@ -89,7 +86,7 @@ Usage
 * Coin daemon(s) (find the coin's repo and build latest version from source)
 * Coin RPC wallet(s) for Charnacoin or Monero based cryptocurrency
 * simplewallet for Forknote based cryptocurrency (Bytecoin/Forknote v1.1.11).  Do NOT use Forknote 2.0.0, since it's in alpha
-* [Node.js](http://nodejs.org/) v0.4 ([follow these installation instructions](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager))
+* [Node.js](http://nodejs.org/) v4.0 ([follow these installation instructions](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager))
 * [Redis](http://redis.io/) key-value store v2.6+ ([follow these instructions](http://redis.io/topics/quickstart))
 * libssl required for the node-multi-hashing module. For Ubuntu: `sudo apt-get install libssl-dev`
 
