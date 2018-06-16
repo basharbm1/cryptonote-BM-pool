@@ -122,8 +122,8 @@ sudo apt-get install git build-essential redis-server libboost-all-dev nodejs-de
 ```bash
 # install n to manage node version to use
 sudo npm install -g n
-# use node's version 0.4.^
-sudo n 0.40
+# use node's version 4.0^
+sudo n 4.0
 # you can change after to lastest node's LTS by running `sudo n lts`
 # learn more with `n --help`
 ```
